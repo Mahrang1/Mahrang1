@@ -1,7 +1,7 @@
 Hi, I'm Mahrang Riaz 👋
 🎓 Software Engineer Student  |  🤖 AI/ML  |  💻 Web Developer
 
-I'm a Computer Science student from Pakistan 🇵🇰 who loves building things at the crossroads of AI and Web Development. I'm early in my journey but already shipping real projects!
+I'm a Software Engineering student from Pakistan 🇵🇰 who loves building things at the crossroads of AI and Web Development. I'm early in my journey but already shipping real projects!
 
 🔭 Currently working on Agentic RAG — an AI app that reasons step-by-step over any URL
 🌱 Learning LLMs, RAG pipelines & Agentic AI with Gemini 2.0 Flash
