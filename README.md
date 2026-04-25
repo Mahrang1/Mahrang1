@@ -8,10 +8,7 @@ From Pakistan 🇵🇰 — building real AI projects, not just learning..
 
 - 🤖 **Agentic RAG** — AI app that reasons step-by-step over any URL using Gemini 2.0 Flash + LanceDB
 - 🔍 **AI Deep Research Agent** — Multi-step research agent that searches, analyzes & summarizes
-- 📄 **CareerScan** — Smart resume analyzer that matches CVs to job descriptions
-- 📊 **Smart Resume Analyzer** — AI-powered resume feedback tool
-
----
+- 📄 **CareerScan** — Smart resume analyzer that matches CVs to job description
 
 ## 💻 Tech Stack
 
@@ -22,15 +19,11 @@ From Pakistan 🇵🇰 — building real AI projects, not just learning..
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
----
-
 ## 🌱 Currently Learning
 
 🧠 LLMs & Prompt Engineering
 🔗 RAG Pipelines & Vector Databases
 🤖 Agentic AI with Agno Framework
-
----
 
 ## 🌐 Connect
 
