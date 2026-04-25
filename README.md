@@ -1,8 +1,7 @@
 # Hi, I'm Mahrang Riaz 👋
 
 I build AI-powered web apps — from RAG pipelines to agentic systems.
-Based in Pakistan 🇵🇰 | Open to remote internships & freelance projects.
-
+Based in Pakistan 🇵🇰 | Open to internships & collaborations.
 
 ## 🚀 Projects
 
@@ -36,7 +35,7 @@ Exploring LLM fine-tuning and multi-agent workflows.
 
 ## 📬 Let's Connect
 
-Open to remote internships and collaborations.
+Open to internships & collaborations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mahrang-Riaz)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahrangriaz39@gmail.com)
