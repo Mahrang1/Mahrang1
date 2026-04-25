@@ -1,32 +1,42 @@
 # Hi, I'm Mahrang Riaz 👋
 
-AI/ML Developer | Agentic AI & RAG Systems | Python
+I build AI-powered web apps — from RAG pipelines to agentic systems.
+Based in Pakistan 🇵🇰 | Open to remote internships & freelance projects.
 
-From Pakistan 🇵🇰 — building real AI projects, not just learning..
 
+## 🚀 Projects
 
-## 🚀 What I Build
+🤖 **[Agentic RAG](https://github.com/Mahrang1/Agentic-RAG-Reasoning-AI)**
+Feed it any URL — it builds a knowledge base and answers questions with step-by-step reasoning.
+`Python` `Gemini 2.0 Flash` `LanceDB` `Streamlit` `Agno`
 
-- 🤖 **Agentic RAG** — AI app that reasons step-by-step over any URL using Gemini 2.0 Flash + LanceDB
-- 🔍 **AI Deep Research Agent** — Multi-step research agent that searches, analyzes & summarizes
-- 📄 **CareerScan** — Smart resume analyzer that matches CVs to job description
+🔍 **[AI Deep Research Agent](https://github.com/Mahrang1/AI-Deep-Research-Agent)**
+Give it a topic — it searches, analyzes, and writes a full research summary.
+`Python` `Gemini` `Streamlit`
 
-## 💻 Tech Stack
+📄 **[CareerScan](https://github.com/Mahrang1/CareerScan)**
+Paste a job description + your resume — it tells you exactly how well you match.
+`Python` `Streamlit` `NLP`
+
+## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
-## 🌱 Currently Learning
 
-🧠 LLMs & Prompt Engineering
-🔗 RAG Pipelines & Vector Databases
-🤖 Agentic AI with Agno Framework
+## 🌱 Currently Working On
 
-## 🌐 Connect
+Building more agentic AI systems with real-world use cases.
+Exploring LLM fine-tuning and multi-agent workflows.
+
+
+## 📬 Let's Connect
+
+Open to remote internships and collaborations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mahrang-Riaz)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahrangriaz39@gmail.com)
